@@ -51,3 +51,14 @@ https://user-images.githubusercontent.com/your-github-username/demo.gif
 bash
 git clone https://github.com/VinothKumar-vkv/Real-Time-Crowd-Counting-using-YoloV8s
 cd real-time-crowd-monitoring
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Download YOLOv8 model
+
+The app uses the yolov8s.pt model. Download from Ultralytics or run:
+from ultralytics import YOLO
+YOLO('yolov8s.pt')
+
+4. 
