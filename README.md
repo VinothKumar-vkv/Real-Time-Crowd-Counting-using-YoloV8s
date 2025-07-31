@@ -17,10 +17,6 @@
 
 ---
 
-## 📸 Demo
-
-https://user-images.githubusercontent.com/your-github-username/demo.gif
-
 ---
 
 ## 🧠 Tech Stack
@@ -61,4 +57,3 @@ The app uses the yolov8s.pt model. Download from Ultralytics or run:
 from ultralytics import YOLO
 YOLO('yolov8s.pt')
 
-4. 
